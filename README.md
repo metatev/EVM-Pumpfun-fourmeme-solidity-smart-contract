@@ -80,4 +80,4 @@ PRs, issues, and feature suggestions are welcome! Feel free to fork, build, and 
 ## 📩 Contact  
 For inquiries, custom integrations, or tailored solutions, reach out via:  
 
-💬 **Telegram**: [@Nightfly](https://t.me/its0xnightfly)
+💬 **Telegram**: [@d0sc4u](https://t.me/d0sc4u)
